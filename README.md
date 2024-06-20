@@ -2,13 +2,8 @@
 
 ### Web Developer Portfolio built with React.js, styled-components and framer motion that showcase my work and skills as a developer.
 
-<p align="center">
-  <kbd>
-    <img src="https://i.ibb.co/gVLWKXg/1658046257615.jpg"></img>
-  </kbd>
-</p>
 
-## To view live, **[click here](https://zeeshannasir16.netlify.app/)**.
+## To view live, **[click here](https://harisshafi0902.netlify.app/)**.
 
 
 
